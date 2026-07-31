@@ -1,9 +1,51 @@
 {
-  "profile": "'I'm a highly skilled web developer who offers a combination of cross-functional skills, including a 7+ years work experience in front-end development, focusing in Javascript based solutions. Also, I has extensive experience working with Javascript frameworks as Angular 2 and ReactJS, and front-end technologies as HTML5, CSS3, Bootstrap and LESS. I also enjoys working with server-side languages as NodeJs, having vast experience with frameworks as ExpressJs and phpSlim. CMSs like Wordpress, and creating REST APIs. My expertise includes gathering and analyzing project requirements, Lead Teams and integrating solutions architecture and design using Object Oriented Techniques.",
-  "skills": ["Javascript ( Angular2, ReactJS, jQuery, D3)","Dart, Flutter, Ionic 2","Ruby on rails","HTML5, CSS3, LESS, Bootstrap"," PHP,phpSlim"," API Development, LoopBack"," MySQL, MongoDB, PostgreSQL","Wordpress (Site Building and Theming)","Docker,Kubernetes,Vagrant","Jira, Git, Gulp, Trello, Scrum, KanBan","Test case planning, Robot Framework, Selenium Webdriver and Mocha"],
+  "profile": "I'm a highly skilled web developer with over 12 years of experience, offering a versatile set of cross-functional skills. My expertise lies in front-end development, including mobile app development with Flutter. Throughout my career, I've dedicated significant time to enhancing my knowledge of JavaScript frameworks such as Angular, Vue, Svelte, and ReactJS, as well as front-end technologies like HTML5, CSS3, Bootstrap, and LESS. I also have experience with server-side languages like Node.js, along with frameworks such as Express.js, Ruby on Rails, PHP, and Flask, and I have extensive experience creating REST APIs. Additionally, I specialize in gathering and analyzing project requirements to deliver solutions using Object-Oriented techniques.",
+  "skills": [
+    "Team Lead",
+    "Javascript ( Angular2, ReactJS, Svelte,jQuery, D3)",
+    "Dart, Flutter, Ionic 2",
+    "Ruby on rails, Python, Flask",
+    "HTML5, CSS3, LESS, Bootstrap",
+    " PHP,phpSlim",
+    " API Development, LoopBack",
+    " MySQL, MongoDB, PostgreSQL",
+    "Wordpress (Site Building and Theming)",
+    "Docker,Kubernetes,Vagrant",
+    "Jira, Git, Gulp, Trello, Scrum, KanBan",
+    "Test case planning, Robot Framework, Selenium Webdriver and Mocha"
+  ],
   "experience": [
     {
-      "date": "2015-Current",
+      "date": "2023-Current",
+      "title": "experience",
+      "company_name": "Kewazo",
+      "country": "DE",
+      "city": "MUC",
+      "position": "Senior Software Engineer",
+      "tasks": [
+        "Development of the analytics dashboard site using Svelte",
+        "Maintainence of  Backend applications(python/flask)",
+        "Creation of bash script for automate tasks",
+        "Interview and plan activities for interns in the software department",
+        "Colaborate with the bussisness department to analize problems and deliver software solutions"
+      ]
+    },
+    {
+      "date": "2019-2023",
+      "title": "C85",
+      "company_name": "C85",
+      "country": "DE",
+      "city": "MUC",
+      "position": "Full Stack Developer ",
+      "tasks": [
+        "Develop of apps using Flutter for Adagram, Nightowl Scanner and NHS trial in Uk",
+        "Creation of restful apis for Wenco using ruby on rails",
+        "Maintenance of Viamorie using Angular 9 and Ruby on rails",
+        "Develop Chart D3 components for React Components"
+      ]
+    },
+    {
+      "date": "2015-2019",
       "title": "experience",
       "company_name": "Jobsity",
       "country": "USA",
@@ -53,7 +95,7 @@
       "title": "experience",
       "company_name": "Chacao Town Hall ",
       "country": "Venezuela",
-      "city": "Ccs",
+      "city": "CCS",
       "position": "Front-End Developer",
       "tasks": [
         "Development and maintenance of websites using HTML5, CSS3, Javascript, jQuery (http://chacao.gob.ve)",

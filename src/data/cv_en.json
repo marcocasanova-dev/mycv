@@ -1,26 +1,54 @@
 {
-  "translations":{
+  "translations": {
     "skills": "Skills",
     "profile": "Profile",
     "experience": "Experience",
     "education": "Education"
   },
-  "profile": "'I'm a highly skilled web developer who offers a combination of cross-functional skills, including a 13+ years work experience in front-end development, focusing in Javascript based solutions. Also, I has extensive experience working with Javascript frameworks as Angular 2 and ReactJS, and front-end technologies as HTML5, CSS3, Bootstrap and LESS. I also enjoys working with server-side languages as NodeJs, having vast experience with frameworks as ExpressJs and phpSlim. CMSs like Wordpress, and creating REST APIs. My expertise includes gathering and analyzing project requirements, Lead Teams and integrating solutions architecture and design using Object Oriented Techniques.",
-  "skills": ["Javascript( Angular2, ReactJS, jQuery, D3)","Dart, Flutter, Ionic 2","Ruby on rails","HTML5, CSS3, LESS, Bootstrap"," PHP,phpSlim"," API Development, LoopBack"," MySQL, MongoDB, PostgreSQL","Wordpress (Site Building and Theming)","Docker,Kubernetes,Vagrant","Jira, Git, Gulp, Trello, Scrum, KanBan","Test case planning, Robot Framework, Selenium Webdriver and Mocha"],
+  "profile": "'I'm a highly skilled web developer who offers a combination of cross-functional skills, including a 13+ years work experience in front-end development, and mobile development using frameworks like fluter, also my focus is oriented on Javascript based solutions. Also, I has extensive experience working with Javascript frameworks as Angular 2 and ReactJS, and front-end technologies as HTML5, CSS3, Bootstrap and LESS. I also enjoys working with server-side languages as NodeJs, having vast experience with frameworks as ExpressJs and phpSlim. CMSs like Wordpress, and creating REST APIs. My expertise includes gathering and analyzing project requirements, Lead Teams and integrating solutions architecture and design using Object Oriented Techniques.",
+  "skills": [
+    "Team leader",
+    "Javascript( Angular2, ReactJS, jQuery, D3)",
+    "Dart, Flutter, Ionic 2",
+    "Ruby on rails",
+    "HTML5, CSS3, LESS, Bootstrap",
+    " PHP,phpSlim",
+    " API Development, LoopBack",
+    " MySQL, MongoDB, PostgreSQL",
+    "Wordpress (Site Building and Theming)",
+    "Docker,Kubernetes,Vagrant",
+    "Jira, Git, Gulp, Trello, Scrum, KanBan",
+    "Test case planning, Robot Framework, Selenium Webdriver and Mocha"
+  ],
   "experience": [
     {
-      "date": "2019-Current",
+      "date": "2023-Current",
       "title": "experience",
-      "company_name": "C85",
-      "country": "Germany",
-      "city": "Munich",
-      "position": "Full-Stack Developer ",
+      "company_name": "Kewazo",
+      "country": "DE",
+      "city": "MUC",
+      "position": "Senior Software Engineer",
       "tasks": [
-        "Api creation in Ruby on Rails",
-        "Update Legacy Systems",
-        "Develop of Mobile Applications using Fluttern",
-        "Develop of games using Unity 3D",
-        "Improvement and refactor of modules for speed improvement and security updates"
+        "Develpment of apps using Flutter",
+        "Development of the analytics dashboard site using Svelte",
+        "Maintainence of  Backend applications(python/flask)",
+        "Creation of bash script for automate tasks",
+        "Interview and plan activities for interns in the software department",
+        "Colaborate with the bussisness department to analize problems and deliver software solutions"
+      ]
+    },
+    {
+      "date": "2019-2023",
+      "title": "C85",
+      "company_name": "C85",
+      "country": "DE",
+      "city": "MUC",
+      "position": "Full Stack Developer ",
+      "tasks": [
+        "Develop of apps using Flutter for Adagram, Nightowl Scanner and NHS trial in Uk",
+        "Creation of restful apis for Wenco using ruby on rails",
+        "Maintenance of Viamorie using Angular 9 and Ruby on rails",
+        "Develop Chart D3 components for React Components"
       ]
     },
     {
@@ -63,7 +91,8 @@
       "tasks": [
         "Development and bug fixing for Tractfile Contract Management Software using Angular2(http://webcreek.com/products/tractfile/)",
         "Development of oil companies websites using Angular, HTML5 and CSS3",
-        "Development and maintenance of financial modules using Angular 2 for ERP System ● Creation and integration of automated test scripts using Selenium",
+        "Development and maintenance of financial modules using Angular 2 for ERP System",
+        "Creation and integration of automated test scripts using Selenium",
         "Maintenance of Wordpress sites ",
         "Developed and maintained ERP modules based in ReactJs.",
         "Developed React web applications.",
@@ -98,6 +127,24 @@
     }
   ],
   "education": [
+    {
+      "date": "2024",
+      "title": "Google Project Management",
+      "academy": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-IT738EQ7/"
+    },
+    {
+      "date": "2024",
+      "title": "Swift Development",
+      "academy": "CodeCamp",
+      "url": "https://www.udemy.com/certificate/UC-IT738EQ7/"
+    },
+    {
+      "date": "2023",
+      "title": "Principles of UX/UI Design",
+      "academy": "Meta",
+      "url": "https://www.udemy.com/certificate/UC-IT738EQ7/"
+    },
     {
       "date": "2017",
       "title": "The Complete React Learning Course",

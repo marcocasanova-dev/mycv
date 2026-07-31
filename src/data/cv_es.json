@@ -1,99 +1,68 @@
 {
-  "translations":{
+  "translations": {
     "skills": "Habilidades",
     "profile": "Perfil",
     "experience": "Experiencia",
     "education": "Educación"
   },
-  "profile": "Soy un desarrollador web altamente calificado que ofrece una combinación de habilidades multifuncionales, que incluyen más de 13 años de experiencia laboral en desarrollo front-end, centrándome en soluciones basadas en Javascript. Además, tengo una amplia experiencia trabajando con frameworks Javascript como Angular 2 y ReactJS, y tecnologías front-end como HTML5, CSS3, Bootstrap y LESS.También disfruto trabajar con lenguajes del lado del servidor como NodeJs, tengo amplia experiencia con frameworks como ExpressJs y phpSlim.CMSs como Wordpress, y creación de API REST. Mi experiencia incluye la recopilación y el análisis de los requisitos del proyecto, los equipos líderes y la integración de la arquitectura y el diseño de soluciones utilizando técnicas orientadas a objetos",
-  "skills": ["Javascript( Angular2, ReactJS, jQuery, D3)","Dart, Flutter, Ionic 2","Ruby on rails","HTML5, CSS3, LESS, Bootstrap"," PHP,phpSlim"," API Development, LoopBack"," MySQL, MongoDB, PostgreSQL","Wordpress (Site Building and Theming)","Docker,Kubernetes,Vagrant","Jira, Git, Gulp, Trello, Scrum, KanBan","Test case planning, Robot Framework, Selenium Webdriver and Mocha"],
+  "profile": "Soy un desarrollador web altamente calificado con más de 12 años de experiencia, ofreciendo un conjunto versátil de habilidades multifuncionales. Mi experiencia se encuentra en el desarrollo front-end, incluyendo el desarrollo de aplicaciones móviles con Flutter. A lo largo de mi carrera, he dedicado mucho tiempo a mejorar mis conocimientos en frameworks de JavaScript como Angular, Vue, Svelte y ReactJS, así como en tecnologías front-end como HTML5, CSS3, Bootstrap y LESS. También tengo experiencia con lenguajes del lado del servidor como Node.js y frameworks como Express.js, Ruby on Rails, PHP y Flask, además de una amplia experiencia en la creación de APIs REST. Además, me especializo en recopilar y analizar requisitos de proyectos para ofrecer soluciones basadas en técnicas orientadas a objetos.",
+  "skills": [
+    "Líder de equipo",
+    "Javascript (Angular2, ReactJS, Svelte, jQuery, D3)",
+    "Dart, Flutter, Ionic 2",
+    "Ruby on Rails, Python, Flask",
+    "HTML5, CSS3, LESS, Bootstrap",
+    "PHP, phpSlim",
+    "Desarrollo de API, LoopBack",
+    "MySQL, MongoDB, PostgreSQL",
+    "WordPress (Construcción de sitios y tematización)",
+    "Docker, Kubernetes, Vagrant",
+    "Jira, Git, Gulp, Trello, Scrum, KanBan",
+    "Planificación de casos de prueba, Robot Framework, Selenium Webdriver y Mocha"
+  ],
   "experience": [
     {
-      "date": "2019-Current",
-      "title": "experience",
-      "company_name": "C85",
-      "country": "Germany",
-      "city": "Munich",
-      "position": "Full-Stack Developer ",
+      "date": "2023-Actualidad",
+      "title": "Experiencia",
+      "company_name": "Kewazo",
+      "country": "DE",
+      "city": "MUC",
+      "position": "Ingeniero de Software Senior",
       "tasks": [
-        "Api creation in Ruby on Rails",
-        "Update Legacy Systems",
-        "Develop of Mobile Applications using Fluttern",
-        "Develop of games using Unity 3D",
-        "Improvement and refactor of modules for speed improvement and security updates"
+        "Desarrollo del sitio de panel de análisis utilizando Svelte",
+        "Mantenimiento de aplicaciones Backend (Python/Flask)",
+        "Creación de scripts bash para automatizar tareas",
+        "Entrevistas y planificación de actividades para los pasantes del departamento de software",
+        "Colaboración con el departamento de negocios para analizar problemas y ofrecer soluciones de software"
       ]
     },
     {
-      "date": "2018-2019",
-      "title": "experience",
+      "date": "2019-2023",
+      "title": "C85",
+      "company_name": "C85",
+      "country": "DE",
+      "city": "MUC",
+      "position": "Desarrollador Full Stack",
+      "tasks": [
+        "Desarrollo de aplicaciones con Flutter para Adagram, Nightowl Scanner y NHS trial en Reino Unido",
+        "Creación de APIs RESTful para Wenco utilizando Ruby on Rails",
+        "Mantenimiento de Viamorie utilizando Angular 9 y Ruby on Rails",
+        "Desarrollo de componentes de gráficos D3 para componentes React"
+      ]
+    },
+    {
+      "date": "2015-2019",
+      "title": "Experiencia",
       "company_name": "Jobsity",
       "country": "USA",
       "city": "NY",
-      "position": "Front/Back-End Developer ",
+      "position": "Desarrollador Front/Back-End",
       "tasks": [
-        "Development and Maintenance of multiple sites using React Js for Dom&Tom",
-        "Planning and Schedule developers Tasks",
-        "Develop of Api Rest Endpoints using Express Js And Loopback ",
-        "Maintenance of Angular 2 Applications ",
-        "Develop Chart D3 components for React Components "
-      ]
-    },
-    {
-      "date": "2016-2018",
-      "title": "experience",
-      "company_name": "DOm&Tom",
-      "country": "USA",
-      "city": "NY",
-      "position": "Front end Developer",
-      "tasks": [
-        "Development and Maintenance of multiple sites using React Js for Dom&Tom",
-        "Planning and Schedule developers Tasks",
-        "Develop of Api Rest Endpoints using Express Js And Loopback ",
-        "Maintenance of Angular 2 Applications ",
-        "Develop Chart D3 components for React Components "
-      ]
-    },
-    {
-      "date": "2014 - 2015",
-      "title": "experience",
-      "company_name": "Webcreek",
-      "country": "USA",
-      "city": "Houston",
-      "position": "Senior Front-end Developer",
-      "tasks": [
-        "Development and bug fixing for Tractfile Contract Management Software using Angular2(http://webcreek.com/products/tractfile/)",
-        "Development of oil companies websites using Angular, HTML5 and CSS3",
-        "Development and maintenance of financial modules using Angular 2 for ERP System ● Creation and integration of automated test scripts using Selenium",
-        "Maintenance of Wordpress sites ",
-        "Developed and maintained ERP modules based in ReactJs.",
-        "Developed React web applications.",
-        "Automated test cases using Selenium Webdriver. "
-      ]
-    },
-    {
-      "date": "2011 - 2014",
-      "title": "experience",
-      "company_name": "Icogroup",
-      "country": "USA",
-      "city": "Miami",
-      "position": "Mid-Level Full Stack Developer",
-      "tasks": [
-        "Development of Android Apps (https://play.google.com/store/apps/details?id=com.icogroup.apensar&hl=es) ",
-        "Development of Android Apps (https://play.google.com/store/apps/details?id=com.icogroup.libros_en_un_click&hl=es)",
-        "API Rest Development using PHP/Laravel (Whilo App Proyect: https://gitlab.com/casanova-vitae/whilo-webservices.git)",
-        "Development of Univision TV Show website using AngularJs"
-      ]
-    },
-    {
-      "date": "2009 - 2011",
-      "title": "experience",
-      "company_name": "Chacao Town Hall ",
-      "country": "Venezuela",
-      "city": "Ccs",
-      "position": "Front-End Developer",
-      "tasks": [
-        "Development and maintenance of websites using HTML5, CSS3, Javascript, jQuery (http://chacao.gob.ve)",
-        "Development of several websites for government and private institutions using Wordpress "
+        "Desarrollo y mantenimiento de múltiples sitios utilizando React Js para Dom&Tom",
+        "Planificación y programación de tareas para desarrolladores",
+        "Desarrollo de puntos finales API Rest utilizando Express Js y Loopback",
+        "Mantenimiento de aplicaciones Angular 2",
+        "Desarrollo de componentes de gráficos D3 para componentes React"
       ]
     }
   ],

@@ -6,7 +6,7 @@ import Console from '../console/index';
 class Main extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {view: 1}
+    this.state = { view: 1 }
     this.handleViewChange = this.handleViewChange.bind(this)
   }
 
@@ -17,11 +17,11 @@ class Main extends React.Component {
   render() {
     const renderView = () => {
       console.log(this.state.view);
-      switch(this.state.view){
+      switch (this.state.view) {
         case 1:
           return <MainPage viewChange={this.handleViewChange} />;
         case 2:
-          return <Console viewChange={this.handleViewChange}/>;
+          return <Console viewChange={this.handleViewChange} />;
         default:
           return <SelectionScreen viewChange={this.handleViewChange} />;
       }

@@ -1,6 +1,6 @@
 import { Container, Col } from 'react-bootstrap';
-
 import styled from 'styled-components';
+
 const Header = styled.div`
   position: relative;
   height: 400px;
@@ -29,6 +29,17 @@ const MenuCenter = styled.div`
   background: rgba(0,0,0,0.4);
   color: white;
   display: flex;
+  margin-bottom:10px;
+`;
+
+const MainTitle = styled.div`
+  position: absolute;
+  padding: 5px;
+  bottom: 40%;
+  width: 100%;
+  background: rgba(0,0,0,0.1);
+  color: white;
+  display: flex;
 `;
 const IconBorder = styled.div`
   border: 2px solid white;
@@ -45,12 +56,20 @@ const IconBorder = styled.div`
 const IntroVideo = styled.video`
   width: 100%;
 `;
+const CenterText = styled.p`
+  text-align: center;
+  font-size: 24px;
+  font-style: italic;
+  width: 100%;
+`;
 const Wrapper = styled.video`
   width: 100%;
 `;
 const StyledLeftCol = styled(Col)`
-  padding: 20px;
+  padding: 10px;
   color: white;
+  border-radius: 20px;
+  background-color:rgba(0, 0, 0, 0.5);
 `;
 const StyledRightCol = styled(Col)`
   background: white;
@@ -64,18 +83,21 @@ const NavBarHeader = styled.div`
 `;
 const MenuHeaderBar = styled.div`
   display: flex;
+  margin-bottom: 10px;
 `;
 
 
-export { 
+export {
   MenuHeader,
-  MenuHeaderBar, 
-  Header, 
-  InformationBox, 
-  IntroVideo, 
-  MenuCenter, 
-  IconBorder, 
-  StyledLeftCol, 
-  StyledRightCol, 
+  MenuHeaderBar,
+  CenterText,
+  Header,
+  InformationBox,
+  IntroVideo,
+  MenuCenter,
+  MainTitle,
+  IconBorder,
+  StyledLeftCol,
+  StyledRightCol,
   NavBarHeader
 };
